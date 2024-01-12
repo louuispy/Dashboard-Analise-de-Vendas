@@ -1,7 +1,5 @@
 # Dashboard de Análise de Vendas com Python
 
-----
-
 ### ***print('Hello World!')***
 
 Hey guys! 👋
